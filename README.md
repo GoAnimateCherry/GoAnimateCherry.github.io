@@ -9,7 +9,7 @@ One of the key features of GoAnimateCherry is its simplicity, as it eliminates t
 GoAnimateCherry has evolved over the years, with continuous updates and improvements to its features and library of assets. It's a powerful tool for anyone looking to bring their ideas to life through animation, without the steep learning curve of traditional animation programs.
 
 ## How to Use
-To access this service, install [Node.JS](https://nodejs.org/en/) then clone/download this project.	If you downloaded this, extract the project from the `.zip` folder. If your system supports `.bat` files, open the `start.bat` file in the projects root directory. If your system doesn't support `.bat` files or you cloned this, copy the path and execute the following commands in your command prompt (where `{PATH}` is the folder path you copied). (If you cloned this, don't copy the first line of code!):
+To access this service, install [Node.JS](https://nodejs.org/en/) then clone/download this project.	If you downloaded this, extract the project from the `.zip` folder. If your system supports `.bat` files, open the `bootloader.bat` file in the projects root directory. If your system doesn't support `.bat` files or you cloned this, copy the path and execute the following commands in your command prompt (where `{PATH}` is the directory behind the project folder.) Also, if you cloned this project, <b>do not</b> copy the first line of code:
 ```console
 cd "{PATH}\GoAnimateCherry.github.io-main"
 npm install
